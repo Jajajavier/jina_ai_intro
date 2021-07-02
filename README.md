@@ -4,7 +4,7 @@ For this guide we are using the repositories from **alexcg1** cloned on July 2, 
  - [Search frontend with Streamlit](https://github.com/alexcg1/jina-meme-search-frontend)
  - [Search backend using Jina](https://github.com/alexcg1/jina-meme-search-image-backend)
 
-This steps were tested on Linux (Ubuntu 20.04), for Windows 10 it is supposed to work on WSL or Docker but my experience dealing with configurations alone was painful and out of the scope for developing with Jina.
+This steps were tested on Linux (Ubuntu 20.04), this may work the same for Mac, for Windows 10 it is supposed to work on WSL or Docker but my experience dealing with configurations alone was painful and out of the scope for developing with Jina.
 
 ## Requirements
  - Working installation of **virtualenv**
